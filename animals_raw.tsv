@@ -1,0 +1,206 @@
+﻿Card #	Animal Card Name	Animal Latin name	Enclosure size (Rock/Water)	Cost	Type	Continent	Reqs	Ability	Bonuses (A/C/R)	Reef Ability	Wave Icon	Expansion (MW)	
+401	CHEETAH	Acinonyx jubatus	5	17	Predator x2	Africa		Sprint 3	6/0/0				
+402	LION	Panthera leo	4	16	Predator	Africa	Predator x3	Pack	9/0/0				
+403	LEOPARD	Panthera pardus	3R	20	Predator	Africa	Partner zoo	Hunter 4	7/1/0				
+404	CARACAL	Caracal caracal	2	9	Predator	Africa		Hunter 2	4/0/0				
+405	FENNEC FOX	Vulpes zerda	1	8	Predator	Africa		Clever	3/0/0				
+406	SIBERIAN TIGER	Panthera tigris altaica	5	30	Predator	Asia	Asia x3		10/2/1				
+407	SUMATRAN TIGER	Panthera tigris sumatrae	4WW	26	Predator	Asia	Science x2		8/2/1				
+408	SLOTH BEAR	Melursus ursinus	3	14	Predator/Bear	Asia		Boost:Association	6/0/0				
+409	SUN BEAR	Helarctos malayanus	2	16	Predator/Bear	Asia	Partner zoo	Action: Association	5/0/0				
+410	YELLOW-THROATED MARTEN	Martes flavigula	1	7	Predator	Asia		Hunter 1	3/0/0				
+411	GRIZZLY BEAR	Ursus arctos horribilis	5	22	Predator	Americas	Predator x2
+Animals II	Inventive
+Full-throated	9/0/0				
+412	JAGUAR	Panthera onca	4	16	Predator	Americas	Americas	Hunter 4	8/0/0				
+413	COUGAR	Puma concolor	3R	10	Predator	Americas		Jumping 3	5/0/0				
+414	SOUTH AMERICAN COATI	Nasua nasua	2R	11	Predator/Bear	Americas		Inventive 1	4/0/0				
+415	RACCOON	Procyon lotor	1	11	Predator/Bear	Americas		Boost:Association	4/0/0				
+416	EURASIAN BROWN BEAR	Ursus arctos arctos	5W	20	Predator/Bear	Europe	Bear
+Animals II	Multiplier: Association
+Full-throated	8/0/0				
+417	WOLF	Canis lupus	4	12	Predator	Europe		Pack	4/0/0				
+418	EURASIAN LYNX	Lynx lynx	3	11	Predator	Europe	Europe x2	Iconic Animal: Europe	2/0/0				
+419	EUROPEAN BADGER	Meles meles	2	5	Predator	Europe		Boost: Aminals	3/0/0				
+420	STOAT	Mustela erminea	1	4	Predator	Europe	Europe	Hunter 1	3/0/0				
+421	NEW ZEALAND FUR SEAL	Arctocephalus forsteri	5WR	17	Predator	Australia	Animals II	Full-throated	8/0/0				
+422	AUSTRALIAN SEA LION	Neophoca cinerea	4W	18	Predator	Australia	Partner zoo	Sunbathing 3	7/1/0				
+423	NEW ZEALAND SEA LION	Phocarctos hookeri	3W	17	Predator	Australia		Pack	6/0/0				
+424	AUSTRALIAN DINGO	Canis lupus dingo	2	13	Predator	Australia		Pack	3/0/0				
+425	TASMANIAN DEVIL	Sarcophilus harrisii	1	11	Predator	Australia	Science	Pouch 1	4/0/1				
+426	AFRICAN BUSH ELEPHANT	Loxodonta africana	5	36	Herbivore	Africa x2	Animals II	Resistance	10/0/1				
+427	WHITE RHINOCEROS	Ceratotherium simum	4R	24	Herbivore	Africa	Science	Assertion	9/0/0				
+428	GIRAFFE	Giraffa	3	16	Herbivore	Africa		Boost: Sponsors	7/0/0				
+429	GREVY'S ZEBRA	Equus grevyi	2	12	Herbivore	Africa	Africa x3	Boost: Sponsors
+Flock Animal 2	6/0/1				
+430	PYGMY HIPPOPOTAMUS	Choeropsis liberiensis	2W	15	Herbivore	Africa	Partner zoo	Action: Sponsors	6/0/0				
+431	ASIAN ELEPHANT	Elephas maximus	5W	33	Herbivore	Asia x2	Animals II	Resistance	8/1/0				
+432	INDIAN RHINOCEROS	Rhinoceros unicornis	4	25	Herbivore	Asia	Animals II	Assertion	9/0/0				
+433	GIANT PANDA	Ailuropoda melanoleuca	3	27	Herbivore/Bear	Asia	Herbivore
+Bear
+Partner zoo		10/2/1				
+434	RED PANDA	Ailurus fulgens	2	16	Herbivore/Bear	Asia	Science x2	Multiplier: Sponsors	6/0/0				
+435	MALAYAN TAPIR	Tapirus indicus	2	17	Herbivore	Asia		Digging 3	5/0/1				
+436	AMERICAN BISON	Bos bison	5	18	Herbivore	Americas x2	Americas x3	Iconic Animal: Americas	4/0/0				
+437	MUSKOX	Ovibos moschatus	4	13	Herbivore	Americas	Americas	Sponsor Magnet	5/0/0				
+438	REINDEER	Rangifer tarandus	3	12	Herbivore	Americas		Flock Animal 3	5/0/0				
+439	LAMA	Lama glama	2	10	Herbivore	Americas		Flock Animal 2	4/0/0				
+440	MOUNTAIN TAPIR	Tapirus pinchaque	2R	15	Herbivore	Americas		Digging 2	4/1/0				
+441	EUROPEAN BISON	Bos bonasus	5	19	Herbivore	Europe x2	Partner zoo	Sponsor Magnet	6/0/0				
+442	MOOSE	Alces alces	4	19	Herbivore	Europe	Herbivore x2	Multiplier: Sponsors
+Flock Animal 4	7/0/0				
+443	RED DEER	Cervus elaphus	3	12	Herbivore	Europe		Flock Animal 3	5/0/0				
+444	ALPINE IBEX	Capra ibex	2RR	10	Herbivore	Europe		Jumping 2	5/0/0				
+445	CRESTED PORCUPINE	Hystric cristata	1	8	Herbivore	Europe		Digging 2	3/0/0				
+446	DUGONG	Dugong dugon	5WW	25	Herbivore	Australia x2	Animals II	Digging 4	9/1/0				
+447	RED KANGAROO	Macropus rufus	4	23	Herbivore	Australia		Pouch 2
+Flock Animal 4	7/0/0				
+448	KOALA	Phascolarctos cinereus	3R	21	Herbivore/Bear	Australia	Australia	Pouch 2	8/0/1				
+449	PLATYPUS	Ornithorhynchus anatinus	2W	10	Herbivore	Australia		Venom 1	4/0/0				
+450	COMMON WOMBAT	Vombatus ursinus	2	9	Herbivore	Australia		Pouch 1	4/0/0				
+451	PROBOSCIS MONKEY	Nasalis larvatus	5R	32	Primate	Asia	Primate x2
+Animals II	Dominance	10/2/0				
+452	SENEGAL BUSHBABY	Galago senegalensis	1	10	Primate	Africa	Africa x2	Iconic Animal: Africa	1/0/0				
+453	COLLARED MANGABEY	Cercocebus torquatus	4	20	Primate	Africa	Africa	Action: Cards	8/0/0				
+454	RING-TAILED LEMUR	Lemur catta	3R	12	Primate	Africa		Sunbathing 3	6/0/0				
+455	MANTLED GUEREZA	Colobus guereza	3	13	Primate	Africa		Clever	6/0/0				
+456	BARBARY MACAQUE	Macaca sylvanus	2	13	Primate	Africa	Partner zoo	Pilfering 1	6/0/0				
+457	MANDRILL	Mandrillus sphinx	5	28	Primate x2	Africa	Primate x3	Multiplier: Cards	9/2/0				
+458	JAPANCES MACAQUE	Macaca fuscata	3W	18	Primate	Africa	Asia	Pilfering 2	7/0/0				
+459	RED-SHANKED DOUC	Pygathrix nemaeus	4	17	Primate	Asia	Science	Inventive	7/0/1				
+460	DUSKY-LEAF MONKEY	Trachypithecus obscurus	2	12	Primate	Asia		Clever	5/0/0				
+461	HORSFIELD'S TARSIER	Cephalopachus bancanus	1	14	Primate	Asia	Partner zoo	Jumping 4	3/0/2				
+462	NORTHERN PLAINS GRAY LANGUR	Semnopithecus entellus	3R	13	Primate	Asia		Jumping 3	6/0/0				
+463	PANAMANIAN WHITE-FACED CAPUCHIN	Cebus imitator	2	11	Primate	Americas	Partner zoo	Pilfering 1	5/0/0				
+464	BROWN SPIDER MONKEY	Ateles hybridus	4	17	Primate	Americas	Primate	Inventive	6/1/0				
+465	GOLDEN LION TAMARIN	Leontopithecus rosalia	1	10	Primate	Americas		Clever	4/0/0				
+466	BOLIVIAN RED HOWLER	Alouatta sara	3	12	Primate	Americas		Boost: Cards	6/0/0				
+467	ECUADORIAN SQUIRELL MONKEY	Saimiri macrodon	2	12	Primate	Americas		Clever	5/0/0				
+468	COTTON-TOP TAMARIN	Saguinus oedipus	1	15	Primate	Americas	Science x2		4/1/1				
+469	NILE CROCODILE	Crocodylus niloticus	5W (RH 3)	13	Reptile	Africa	Reptile x3	Snapping 2	9/0/0				
+470	WESTERN GREEN MAMBA	Dendroaspis viridis	2 (RH 1)	13	Reptile	Africa	Africa
+Reptile	Venom 2	6/0/0				
+471	AFRICAN SPURRED TORTOISE	Centrochelys sulcata	3 (RH 2)	22	Reptile	Africa		Sunbathing 3	6/1/0				
+472	ROCK MONITOR	Varanus albigularis	2R (RH 1)	12	Reptile	Africa		Sunbathing 3	5/0/0				
+473	COMMON AGAMA	Agama agama	1 (RH 0)	9	Reptile	Africa		Sunbathing 2	3/0/0				
+474	INDIAN ROCK PYTHON	Python molurus	2 (RH 1)	14	Reptile	Asia	Reptile x2	Constriction	7/0/0				
+475	KING COBRA	Ophiophagus hannah	2 (RH 1)	13	Reptile	Asia	Science x2
+Animals II	Hypnosis 3	6/0/0				
+476	KOMODO DRAGON	Varanus komodoensis	3 (RH 2)	14	Reptile	Asia	Asia x2	Iconic Animal: Asia	2/0/0				
+477	VEILED CHAMELEON	Chamaeleo calyptratus	1 (RH 0)	14	Reptile	Asia		Snapping 1	4/0/0				
+478	CHINESE WATER DRAGON	Physignathus cocincinus	1W (RH 0)	8	Reptile	Asia		Sunbathing 2	3/0/0				
+479	AMERICAN ALLIGATOR	Alligator mississippiensis	4W (RH 2)	18	Reptile	Americas		Snapping 1	7/0/0				
+480	BROAD-SNOUTED CAIMAN	Caiman latirostris	4W (RH 2)	16	Reptile	Americas		Snapping 1	6/0/0				
+481	GALAPAGOS GIANT TORTOISE	Chelonoidis nigra	3 (RH 2)	30	Reptile	Americas	Americas x2
+Animals II	Sunbathing 4	8/2/1				
+482	ANACONDA	Eunectes murinus	2W (RH 1)	13	Reptile	Americas	Partner zoo	Constriction	6/0/0				
+483	BOA CONSTRICTOR	Boa constrictor	2 (RH 1)	16	Reptile	Americas	Science x2	Constriction	7/0/0				
+484	EUROPEAN POND TURTLE	Emys orbicularis	1W (RH 1)	9	Reptile	Europe			4/0/0				
+485	COMMON EUROPEAN ADDER	Vipera berus	1 (RH 0)	10	Reptile	Europe	Partner zoo	Hypnosis 3	2/0/0				
+486	COMMON WALL LIZARD	Podarcis muralis	1R (RH 0)	4	Reptile	Europe			2/0/0				
+487	EUROPEAN GRASS SNAKE	Natrix natrix	1W (RH 0)	8	Reptile	Europe		Clever	3/0/0				
+488	SLOW WORM	Anguis fragilis	1W (RH 0)	4	Reptile	Europe			2/0/0				
+489	SALTWATER CROCODILE	Crocodylus porosus	5W (RH 3)	23	Reptile	Australia	Partner zoo	Snapping 2	9/0/0				
+490	GOULD'S MONITOR	Varanus gouldii	3 (RH 2)	15	Reptile	Australia		Scavenging 2	6/0/0				
+491	FRILLED LIZARD	Chlamydosaurus kingii	2R (RH 1)	12	Reptile	Australia		Sprint 1	5/0/0				
+492	INLAND TAIPAN	Oxyuranus microlepidotus	2R (RH 1)	10	Reptile	Australia	Australia
+Science	Venom 2	5/0/0				
+493	THORNY DEVIL	Moloch horridus	1R (RH 0)	6	Reptile	Australia			3/0/0				
+494	AFRICAN OSTRICH	Struthio camelus	5 (LBA 4)	20	Bird	Africa		Sprint 2	8/0/0				
+495	SECRETARY BIRD	Sagittarius serpentarius	4 (LBA 1)	14	Bird	Africa			4/1/0				
+496	MARABOU	Leptoptilos crumenifer	3 (LBA 1)	10	Bird	Africa		Scavenging 2	4/0/0				
+497	LESSER FLAMINGO	Phoeniconaias minor	2W	15	Bird	Africa		Posturing 1	6/0/0				
+498	SHOEBILL	Balaeniceps rex	1 (LBA 1)	9	Bird	Africa	Science x2		3/1/0				
+499	CINEREOUS VULTURE	Aegypius monachus	5 (LBA 1)	16	Bird	Asia		Scavenging 3	6/0/0				
+500	LONG-BILLED VULTURE	Gyps indicus	4R (LBA 1)	20	Bird	Asia	Science	Scavenging 3	5/1/1				
+501	INDIAN PEAFOWL	Pavo cristatus	3	18	Bird	Asia	Asia	Posturing 2	7/0/0				
+502	GREAT HORNBILL	Buceros bicornis	2	13	Bird	Asia		Boost: Build	6/0/0				
+503	SNOWY OWL	Bubo scandiacus	1	11	Bird	Asia	Bird x2	Perception 4	4/0/1				
+504	ANDEAN CONDOR	Vultur gryphus	5R (LBA 1)	17	Bird	Americas	Bird	Scavenging 4	7/0/1				
+505	BALD EAGLE	Haliaeetus leucocephalus	4W (LBA 1)	23	Bird	Americas	Animals II	Determination	8/0/0				
+506	KING VULTURE	Sarcoramphus papa	3 (LBA 1)	12	Bird	Americas	Bird x3	Scavenging 5	9/0/0				
+507	GREATER RHEA	Rhea americana	2	12	Bird	Americas		Sprint 1	5/0/0				
+508	SCARLET MACAW	Ara macao	1	16	Bird	Americas	Partner zoo	Posturing 3	4/0/0				
+509	GOLDEN EAGLE	Aquila chrysaetos	5R (LBA 1)	20	Bird	Europe	Animals II	Determination	7/0/0				
+510	WHITE STORK	Ciconia ciconia	4 (LBA 1)	9	Bird	Europe	Europe	Multiplier: Build	4/0/0				
+511	GREATER FLAMINGO	Phoenicopterus roseus	3W	16	Bird	Europe		Posturing 1	7/0/0				
+512	EURASIAN EAGLE-OWL	Bubo bubo	2	10	Bird	Europe	Partner zoo	Perception 4	4/0/0				
+513	BARN OWL	Tyto alba	1	12	Bird	Europe		Perception 4	3/0/0				
+514	EMU	Dromaius novaehollandiae	5	22	Bird	Australia	Australia x2	Peacocking	7/0/0				
+515	AUSTRALIAN PELICAN	Pelecaus conspicillatus	4WW	13	Bird	Australia		Action: Build	5/0/0				
+516	NORHTERN CASSOWARY	Casuarius unappendiculatus	3	12	Bird	Australia	Partner zoo	Multiplier: Build	6/0/0				
+517	LAUGHING KOOKABURRA	Dacelo novaeguineae	2	9	Bird	Australia	Australia	Iconic Animal: Australia	0/0/0				
+518	LESSER BIRD-OF-PARADISE	Paradisaea minor	1	15	Bird	Australia		Posturing 1	5/0/0				
+519	(DOMESTIC) GOAT	Capra aegagrus hircus	PZ 1	7	Pet			Petting Zoo Animal	0/0/0				
+520	SHEEP	Ovis gmelini aries	PZ 1	7	Pet			Petting Zoo Animal	0/0/0				
+521	HORSE	Equus caballus	PZ 1	7	Pet			Petting Zoo Animal	0/0/0				
+522	DONKEY	Equus asinus asinus	PZ 1	7	Pet			Petting Zoo Animal
+Inventive	0/0/0				
+523	DOMESTIC RABBIT	Oryctolagus cuniculus	PZ 1	7	Pet			Petting Zoo Animal	0/0/0				
+524	MANGALICA	Sus scrofa form. domestica	PZ 1	7	Pet			Petting Zoo Animal	0/0/0				
+525	GUINEA PIG	Cavia porcellus form. domestica	PZ 1	7	Pet			Petting Zoo Animal
+Digging 1	0/0/0				
+526	ALPACA	Vicugna pacos	PZ 1	7	Pet			Petting Zoo Animal	0/0/0				
+527	COCONUT LORIKEET	Trichoglossus haematodus	PZ 1	7	Pet			Petting Zoo Animal	0/0/0				
+528	BENNETT'S WALLABY	Macropus rufogriseus	PZ 1	7	Pet			Petting Zoo Animal
+Pouch 1	0/0/0				
+529	MAGNIFICENT SEA ANEMONE	Heteractis magnifica	(1)  Aq 1	6	Sea Animal	Australia		Mark	3/0/0	MARK	WAVE	MW	
+530	ORANGE CLOWNFISH	Amphiprion percula	(1)  Aq 1	10	Sea Animal	Australia		none	3/0/0	2 APPEAL	WAVE	MW	
+531	PALETTE SURGEONFISH	Paracanthurus hepatus	(1)  Aq 1	9	Sea Animal	Asia		Trade	4/0/0	X : $5	WAVE	MW	
+532	ZOOPLANKTON		(1)  Aq 0	4	Sea Animal	none		Sea Animal Magnet	1/0/0		WAVE	MW	
+533	BLACKSIDE HAWKFISH	Paracirrhites forsteri	(2)  Aq 1	11	Sea Animal	Australia		Posturing 1	4/0/0	KIOSK/PAV	WAVE	MW	
+534	SOUTHERN BLUE-RINGED OCTOPUS	Hapalochlaena maculosa	(2)  Aq 1	12	Sea Animal	Australia		Venom 1 / Inventive	4/0/0	$3	WAVE	MW	
+535	SHARKNOSE GOBY	Elacatinus evelynae	(1)  Aq 1	7	Sea Animal	Americas		Symbiosis, Helpful	2/0/0	NONE	WAVE	MW	
+536	LONHORN COWFISH	Lactoria cornuta	(2)  Aq 1	9	Sea Animal 	Africa		Boost: Sponsors	4/0/0	1<- CARD ->	WAVE	MW	
+537	BLACKBAR TRIGGERFISH	Rhinecanthus aculeatus	(2)  Aq 1	14	Sea Animal 	Africa	University	Constriction / Clever	5/0/0	DRAW CARD	WAVE	MW	
+538	DEVIL FIREFISH	Pterois miles	(2)  Aq 1	16	Sea Animal	Asia	Science	Venom 1 /Inventive	6/0/0	1 X	WAVE	MW	
+539	AMERICAN WHITESPOTTED FILEFISH	Cantherhines macrocerus	(1)  Aq 1	12	Sea Animal	Americas			5/0/0	<- CARD 1	WAVE	MW	
+540	GUINEAFOWL PUFFER	Arothron meleagris	(2)  Aq 2	15	Sea Animal	Asia		Venom 1 / Inventive	5/0/0	1 REP	WAVE	MW	
+541	BLUESPOTTED RIBBONTAIL RAY	Taeniura lymma	(2)  Aq 1	16	Sea Animal	Asia		Digging 1	7/0/0	DIG 1	Wave	MW	
+542	HUMPHEAD WRASSE	Cheilinus undulatus	(3)  Aq 2 	22	Sea Animal 	Africa	University	Extra Shift	6/1/0	EXTRA SHIFT	Wave	MW	
+543	COASTAL MANTA RAY	Mobula alfredi	(5)  Aq 4	23	Sea Animal	Asia	Animals II	Glide 3	8/0/1	1 CONS	Wave	MW	
+544	CARIBBEAN REEF SHARK	Carcharhinus perezi	(4)  Aq 3	20	Sea Animal / Predator	Americas		Shark Attack 1	5/0/1	SA 1	Wave	MW	
+545	LONGCOMB SAWFISH	Pristis zijsron	(4)  Aq 3 	21	Sea Animal 2	Africa	Sea Animal	Cut Down	9/1/0		Wave	MW	
+546	SAND TIGER SHARK	Carcharias taurus	(5)  Aq 4 R	32	Sea Animal / Predator	Australia	Animals II	Shark Attack 2	8/1/0		Wave	MW	
+547	MEDITERRANEAN RAINBOW WRASSE	Corris julis	(1)  Aq 0 R	8	Sea Animal	Europe		Symbiosis	3/0/0		Wave	MW	
+548	SHORT-SNOUTED SEAHORSE	Hippocampus hippocampus	(1)  Aq 1 R	7	Sea Animal	Europe		Camouflage, Pouch 1	2/0/0		Wave	MW	
+549	COMMON OCTOPUS	Octopus vulgaris	(3)  Aq 2 R	9	Sea Animal	Europe	Science	Camouflage	5/0/0		Wave	MW	
+550	COMPASS JELLYFISH	Chrysaora hysoscella	(3)  Aq 2 	10	Sea Animal	Europe	Reputation 3	Glide 2	6/0/0		Wave	MW	
+551	LOGGERHEAD SEA TURTLE	Caretta caretta	(4)  Aq 3 / LRH 3	23	Sea Animal / Reptile	Europe		Scuba Dive X	8/0/0		Wave	MW	
+552	GREEN SEA TURTLE	Chelonia mydas	(3)  Aq 2 / LRH 2	17	Sea Animal / Reptile	Americas		Scuba Dive X	6/0/0		Wave	MW	
+553	TAMBAQUI	Colossoma macropomum	(1)  Aq 1	15	Sea Animal / Herbivore	Americas		Adapt 1	5/0/0		Wave	MW	
+554	AFRICAN PENGUIN	Spheniscus demersus	3RW / Aq 2	18	Sea Animal / Bird	Africa	Animals II	Adapt 2	6/0/1		Wave	MW	
+555	GOLDEN SNUB-NOSED MONKEY	Rhinopithecus roxellana	3R	18	Primate	Asia	Science	Pilfering 1 / Sprint 1	6/1/0			MW	
+556	WOLVERINE	Gulo gulo	3R	15	Predator/Bear	Europe		Boost Association	5/0/1			MW	
+557	VIETNAMESE POT-BELLIED PIG	Sus scrofa f. domestica	PZ 1	7	Pet			Petting Zoo Animal	0/0/0			MW	
+558	NORTHERN MURIQUI	Brachyteles hypoxanthus	4R	16	Primate	Americas	University	Monkey Gang	6/1/0			MW	
+559	COQUEREL'S SIFAKA	Propithecus coquereli	3R	17	Primate	Africa		Monkey Gang, Jumping 2	7/0/0			MW	
+560	BRAHMINY KITE	Haliastur indus	3RW (LBA 1)	12	Bird	Australia		Hunter 2	6/0/0			MW	
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
