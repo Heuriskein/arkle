@@ -20,7 +20,10 @@ TYPE_MAP = {
 
 # Manual corrections: card_id -> dict of field overrides
 CORRECTIONS = {
+    439: {'name': 'Llama'},
     458: {'name': 'Japanese Macaque', 'continents': ['Asia']},
+    467: {'name': 'Ecuadorian Squirrel Monkey'},
+    536: {'name': 'Longhorn Cowfish'},
 }
 
 def title_case(s):
@@ -48,9 +51,10 @@ def parse_tags(type_raw, size_raw):
         t = re.sub(r'\s+\d+\s*$', '', t).strip()
         if t in TYPE_MAP and TYPE_MAP[t] not in tags:
             tags.append(TYPE_MAP[t])
-    if size_raw and 'R' in size_raw:
+    size_token = size_raw.split()[0] if size_raw else ''
+    if 'R' in size_token:
         tags.append('Rock')
-    if size_raw and 'W' in size_raw:
+    if 'W' in size_token:
         tags.append('Water')
     return tags
 
