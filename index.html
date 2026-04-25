@@ -209,6 +209,33 @@
       font-size: 0.85rem;
       color: var(--muted);
     }
+
+    #bonus-btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 28px;
+      background: var(--card);
+      color: var(--gold);
+      border: 2px solid var(--gold);
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      font-size: 0.95rem;
+      letter-spacing: 1px;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    #bonus-btn:hover {
+      background: var(--gold);
+      color: #111;
+    }
+
+    .bonus-label {
+      margin-top: 6px;
+      font-size: 0.75rem;
+      color: var(--muted);
+      text-align: center;
+    }
   </style>
 </head>
 <body>
@@ -254,6 +281,8 @@
 
 <div class="message" id="message"></div>
 <div class="reveal-answer" id="reveal"></div>
+<button id="bonus-btn">PLAY ANOTHER PUZZLE</button>
+<div class="bonus-label" id="bonus-label"></div>
 
 <script src="animals.js"></script>
 <script>
@@ -270,10 +299,12 @@ function getDailyAnimal() {
 }
 
 const MAX_GUESSES = 8;
-const target = getDailyAnimal();
+let target = getDailyAnimal();
 let guessesLeft = MAX_GUESSES;
 let gameOver = false;
 const guessed = new Set();
+const usedAnimals = new Set([target.name]);
+let bonusCount = 0;
 
 // ---------------------------------------------------------------------------
 // DOM refs
@@ -285,8 +316,11 @@ const guessBody   = document.getElementById('guess-body');
 const messageEl   = document.getElementById('message');
 const statusEl    = document.getElementById('status');
 const revealEl    = document.getElementById('reveal');
+const bonusBtn    = document.getElementById('bonus-btn');
+const bonusLabel  = document.getElementById('bonus-label');
 
 updateStatus();
+updateBonusLabel();
 
 // ---------------------------------------------------------------------------
 // Autocomplete
@@ -382,7 +416,44 @@ function endGame(won) {
     messageEl.className = 'message lose';
     revealEl.textContent = `The animal was: ${target.name}`;
   }
+  updateBonusLabel();
 }
+
+function updateBonusLabel() {
+  const remaining = ANIMALS.length - usedAnimals.size;
+  if (remaining > 0) {
+    bonusBtn.style.display = 'inline-block';
+    bonusLabel.textContent = `${remaining} animal${remaining === 1 ? '' : 's'} left to discover`;
+  } else {
+    bonusBtn.style.display = 'none';
+    bonusLabel.textContent = "You've played every animal!";
+  }
+}
+
+function startBonusGame() {
+  const pool = ANIMALS.filter(a => !usedAnimals.has(a.name));
+  if (!pool.length) return;
+  target = pool[Math.floor(Math.random() * pool.length)];
+  usedAnimals.add(target.name);
+  bonusCount++;
+
+  guessesLeft = MAX_GUESSES;
+  gameOver = false;
+  guessed.clear();
+
+  guessBody.innerHTML = '';
+  messageEl.textContent = '';
+  messageEl.className = 'message';
+  revealEl.textContent = '';
+  input.disabled = false;
+  submitBtn.disabled = false;
+  input.value = '';
+  input.focus();
+  updateStatus();
+  updateBonusLabel();
+}
+
+bonusBtn.addEventListener('click', startBonusGame);
 
 function updateStatus() {
   if (gameOver) { statusEl.textContent = ''; return; }
