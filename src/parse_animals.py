@@ -121,6 +121,11 @@ for row in ws.iter_rows(min_row=2, values_only=False):
         'conservation': conservation,
     })
 
+# All Petting Zoo animals share identical stats, making them indistinguishable in-game.
+# Keep only Horse as a representative; remove the rest.
+PETTING_ZOO_KEEP = {521}  # Horse
+animals = [a for a in animals if 'Petting Zoo' not in a['tags'] or a['id'] in PETTING_ZOO_KEEP]
+
 # Emit animals.js
 lines = ['const ANIMALS = [']
 for a in animals:
